@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @MatheusGomes-del
-- 👀 Front-end
+- 👀 Cursando Ciência da Computação
 - 🌱 Aprendendo JS,Html,Css
 
