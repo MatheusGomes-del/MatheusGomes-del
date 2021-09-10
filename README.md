@@ -1,5 +1,5 @@
 - 👋 Opa, Eu sou Matheus Gomes!
-- 🌱 Estudante de Desenvolvimento Front-end 👨‍💻
+- 🌱 Estudante de Desenvolvimento Front-end <img width="30px" heigth="30px" src="https://img.icons8.com/external-justicon-lineal-color-justicon/64/ffffff/external-development-responsive-web-design-justicon-lineal-color-justicon.png"/>
 
  <div>
   <a href="https://github.com/MatheusGomes-del">
