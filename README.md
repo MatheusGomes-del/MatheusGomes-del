@@ -19,6 +19,8 @@
    src="https://img.icons8.com/color/48/000000/bootstrap.png"/>
  <img align="center" alt="Math-Bootstrap" height="40" width="40"
    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" />
+ <img align="center" alt="Icon-React" height="40" width="40"
+   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </div>
  
  ##
