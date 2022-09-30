@@ -31,7 +31,7 @@ evoluir cada vez mais na área para concluir minha metas, e poder contribuir pos
  <img src="https://img.shields.io/badge/postman-%23121011.svg?style=for-the-badge&logo=postman&logoColor=orange" />
  </div>
 <div>
- <h2>Estuando atualemente/interesse:</h2>
+ <h2>Estudando atualmente/interesse:</h2>
  <img src="https://img.shields.io/badge/java-%23121011.svg?style=for-the-badge&logo=java&logoColor=red" />
  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
 </div>
