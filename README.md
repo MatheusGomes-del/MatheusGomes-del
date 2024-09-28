@@ -1,15 +1,31 @@
 <h2>Olá, Me chamo Matheus!:man: </h2>
 
 <h3>Sobre mim :memo:</h3> <hr>
-Tenho 19 anos,falo de João Pessoa-Paraíba, graduando em Ciência da Computação, e me formando atualmente em Desenvolvimento Full Stack pela trybe,
-esta jornada começou em janeiro de 2022, minha curiosidade sobre a área de Desevolvimento me trouxe até a trybe e desde então meu obejtivo, vem sendo 
-evoluir cada vez mais na área para concluir minha metas, e poder contribuir positivamente para as pessoas em algum projeto ou trabalho.Uma curiosidade sobre mim, ou hooby, é estudar cibersegurança, me interesso muito por este lado "obscuro" da tecnologia :smile:, então em paralelo à desenvolvimento, faço parte da turma de BugBounty :bug: na <a href='https://www.instagram.com/patoacademy/' target="_blank">pato academy</a> , e para mim é muito bom mesclar esses conhecimentos, de criar as aplicações e testar vulnerabilidades ao mesmo tempo, me dando uma melhor percepção de criar aplicações mais seguras! :computer:
+Sobre Mim
+👋 Olá! Sou [Matheus], um programador júnior apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou explorando o mundo da programação e buscando sempre aprender e crescer.<br>
+
+
+💻 Tecnologias que utilizo:
+
+Linguagens: [Python, JavaScript ] <br>
+Frameworks: [React,React Native, Node.js, Flask] <br>
+Ferramentas: [Git, Docker, Visual Studio Code, Postman, Insomnia] <br>
+📚 Educação: Sou graduando em Análise e Desenvolvimento de Sistemas pela Estácio, onde desenvolvi uma sólida base em ciência da computação e programação.
+
+🌟 Projetos em Destaque:
+
+[Busca de Pedidos/Orçamentos]: Aplicação Front-end que auxilia na busca de pedidos ou orçamentos feito pelos cliente onde os vendedores pode consutar esses pedidos/orçamentos e imprimir a nota de tudo que o cliente escolheu na hora de sua compra na loja.(Projeto desenvolvido para LDF- Lojão DuFerro) <br>
+Tecnologias Utilizadas: React, Bootstrap, Node.Js, MySQL.
+
+🔍 Interesses: Estou interessado em inteligência artificial, desenvolvimento web, aplicativos móveis e sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades.
+
+📫 Vamos nos conectar! Sinta-se à vontade para explorar meus repositórios e entrar em contato se você quiser conversar sobre projetos, colaboração ou oportunidades!
  
 <img display: block heigth="150" width="150" src="https://media.giphy.com/media/3oriNLx3dUqFgVi86I/giphy.gif">
 <hr>
 
 <div style="display: inline_block"><br>
- <h1>frameworks and libraries/tools:</h1>
+ <h1>frameworks e Bibliotecas/Ferramentas:</h1>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/git-%23121011.svg?style=for-the-badge&logo=git&logoColor=red"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
@@ -32,8 +48,15 @@ evoluir cada vez mais na área para concluir minha metas, e poder contribuir pos
  </div>
 <div>
  <h2>Estudando atualmente/interesse:</h2>
- <img src="https://img.shields.io/badge/java-%23121011.svg?style=for-the-badge&logo=java&logoColor=red" />
- <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
+ 
+ <img  heigth="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+
+ <img style="color: white;" heigth="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
+          
+          
+          
+          
+          
 </div>
  
  ##
