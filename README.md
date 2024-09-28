@@ -1,4 +1,4 @@
-<h2>Olá, Me chamo Matheus!:man: </h2>
+<h2>Olá, Me chamo Matheus! </h2>
 
 <h3>Sobre mim :memo:</h3> <hr>
 Sobre Mim
