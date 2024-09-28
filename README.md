@@ -3,17 +3,17 @@ Sobre Mim
 👋 Olá! Sou Matheus, um programador júnior apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou explorando o mundo da programação e buscando sempre aprender e crescer.<br>
 
 
-💻 Tecnologias que utilizo:
+💻 Tecnologias que mais utilizo:
 
 Linguagens: [Python, JavaScript ] <br>
 Frameworks: [React,React Native, Node.js, Flask] <br>
-Ferramentas: [Git, Docker, Visual Studio Code, Postman, Insomnia] <br>
+Ferramentas: [Git, Docker, Visual Studio Code, Postman, Insomnia,Redux] <br>
 📚 Educação: Sou graduando em Análise e Desenvolvimento de Sistemas pela Estácio, onde desenvolvi uma sólida base em ciência da computação e programação.
 
 🌟 Projetos em Destaque:
 
 [Busca de Pedidos/Orçamentos]: Aplicação Front-end que auxilia na busca de pedidos ou orçamentos feito pelos cliente onde os vendedores pode consutar esses pedidos/orçamentos e imprimir a nota de tudo que o cliente escolheu na hora de sua compra na loja.(Projeto desenvolvido para LDF- Lojão DuFerro) <br>
-Tecnologias Utilizadas: React, Bootstrap, Node.Js, MySQL.
+Tecnologias Utilizadas: React,Redux, Bootstrap, Node.Js, MySQL.
 
 🔍 Interesses: Estou interessado em inteligência artificial, desenvolvimento web, aplicativos móveis e sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades.
 
@@ -28,6 +28,7 @@ Tecnologias Utilizadas: React, Bootstrap, Node.Js, MySQL.
   <img src="https://img.shields.io/badge/git-%23121011.svg?style=for-the-badge&logo=git&logoColor=red"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
+  <img src="https://img.shields.io/badge/python-%23121011.svg?style=for-the-badge&logo=python&logoColor=blue"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -61,7 +62,7 @@ Tecnologias Utilizadas: React, Bootstrap, Node.Js, MySQL.
   
 <div>
 
-<a href = "mailto:matheus.gomes.santos@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "mailto:matheus.gomes.santos@outlook.com"><img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/matheusgdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 
  <div>
