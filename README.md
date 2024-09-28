@@ -1,13 +1,17 @@
 <h3>Sobre mim :memo:</h3> <hr>
 Sobre Mim
-👋 Olá! Sou Matheus, um programador júnior apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou explorando o mundo da programação e buscando sempre aprender e crescer.<br>
+👋 Olá! Sou Matheus, um programador júnior apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou explorando o mundo da programação e buscando sempre aprender e crescer. <br>
 
+<br> 
+💻 Tecnologias que mais utilizo: <br>
 
-💻 Tecnologias que mais utilizo:
+<br>
 
 Linguagens: [Python, JavaScript ] <br>
 Frameworks: [React,React Native, Node.js, Flask] <br>
 Ferramentas: [Git, Docker, Visual Studio Code, Postman, Insomnia,Redux] <br>
+
+
 📚 Educação: Sou graduando em Análise e Desenvolvimento de Sistemas pela Estácio, onde desenvolvi uma sólida base em ciência da computação e programação.
 
 🌟 Projetos em Destaque:
