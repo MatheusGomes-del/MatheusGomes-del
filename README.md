@@ -8,7 +8,7 @@ Sobre Mim
 <br>
 
 Linguagens: [Python, JavaScript ] <br>
-Frameworks: [React,React Native, Node.js, Flask] <br>
+Frameworks: [React,React Native, Node.js,Express, Flask] <br>
 Ferramentas: [Git, Docker, Visual Studio Code, Postman, Insomnia,Redux] <br>
 
 
