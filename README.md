@@ -1,5 +1,4 @@
 <h3>Sobre mim :memo:</h3> <hr>
-Sobre Mim
 👋 Olá! Sou Matheus, um programador júnior apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou explorando o mundo da programação e buscando sempre aprender e crescer. <br>
 
 <br> 
