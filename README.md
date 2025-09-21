@@ -1,5 +1,5 @@
 <h3>Sobre mim :memo:</h3> <hr>
-👋 Olá! Sou Matheus, um programador júnior apaixonado por tecnologia e desenvolvimento de software. Atualmente, estou explorando o mundo da programação e buscando sempre aprender e crescer. <br>
+👋 Olá! Sou Matheus Gomes, desenvolvedor web júnior apaixonado por tecnologia e inovação. Tenho experiência prática em desenvolvimento de aplicações web e mobile, com foco em React, Node.js. Busco constantemente aprender novas tecnologias e aprimorar minhas habilidades através de projetos desafiadores. <br>
 
 <br> 
 💻 Tecnologias que mais utilizo: <br>
