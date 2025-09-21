@@ -33,7 +33,6 @@ Tecnologias: React, Redux, Bootstrap, Node.js, MySQL.
   <img src="https://img.shields.io/badge/git-%23121011.svg?style=for-the-badge&logo=git&logoColor=red"/>
   <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
-  <img src="https://img.shields.io/badge/python-%23121011.svg?style=for-the-badge&logo=python&logoColor=blue"/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
@@ -51,11 +50,11 @@ Tecnologias: React, Redux, Bootstrap, Node.js, MySQL.
  <img src="https://img.shields.io/badge/postman-%23121011.svg?style=for-the-badge&logo=postman&logoColor=orange" />
  </div>
 <div>
- <h2>Estudando atualmente/interesse:</h2>
+ <h2>Estudando atualmente:</h2>
  
- <img  heigth="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
+  <img src="https://img.shields.io/badge/java-%23121011.svg?style=for-the-badge&logo=java&logoColor=red" />
+  <img src="https://img.shields.io/badge/springBoot-%23121011.svg?style=for-the-badge&logo=spring&logoColor=green" />
 
- <img style="color: white;" heigth="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" />
           
           
           
