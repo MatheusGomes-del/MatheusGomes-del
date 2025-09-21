@@ -6,19 +6,21 @@
 
 <br>
 
-Linguagens: [Python, JavaScript ] <br>
-Frameworks: [React,React Native, Node.js,Express, Flask] <br>
-Ferramentas: [Git, Docker, Visual Studio Code, Postman, Insomnia,Redux] <br>
+Linguagens: [JavaScript, Java(estudando) ] <br>
+Frameworks: [ReactJs,React Native, Node.js,Express ] <br>
+Ferramentas: [Git, Docker, Visual Studio Code, Postman, Insomnia, Redux ] <br>
 
 
-📚 Educação: Sou graduando em Análise e Desenvolvimento de Sistemas pela Estácio, onde desenvolvi uma sólida base em ciência da computação e programação.
+📚 Educação: Graduando em Análise e Desenvolvimento de Sistemas, adquirindo uma sólida base em ciência da computação e desenvolvimento de software.
+             Formação Full-Stack Web pela Trybe.
 
 🌟 Projetos em Destaque:
 
-[Busca de Pedidos/Orçamentos]: Aplicação Front-end que auxilia na busca de pedidos ou orçamentos feito pelos cliente onde os vendedores pode consutar esses pedidos/orçamentos e imprimir a nota de tudo que o cliente escolheu na hora de sua compra na loja.(Projeto desenvolvido para LDF- Lojão DuFerro) <br>
-Tecnologias Utilizadas: React,Redux, Bootstrap, Node.Js, MySQL.
+[Busca de Pedidos/Orçamentos]: Busca de Pedidos/Orçamentos: Sistema Front-end que facilita a busca de pedidos e orçamentos, permitindo que vendedores consultem informações e imprimam notas fiscais de compras na loja LDF – Lojão DuFerro.
 
-🔍 Interesses: Estou interessado em inteligência artificial, desenvolvimento web, aplicativos móveis e sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades.
+Tecnologias: React, Redux, Bootstrap, Node.js, MySQL.
+
+🔍 Interesses: Desenvolvimento Web, desenvolvimento mobile, sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades.
 
 📫 Vamos nos conectar! Sinta-se à vontade para explorar meus repositórios e entrar em contato se você quiser conversar sobre projetos, colaboração ou oportunidades!
  
