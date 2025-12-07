@@ -6,8 +6,8 @@
 
 <br>
 
-Linguagens: [JavaScript, Java(estudando) ] <br>
-Frameworks: [ReactJs,React Native, Node.js,Express ] <br>
+Linguagens: [JavaScript, Python ] <br>
+Frameworks: [ReactJs,React Native, Node.js,Express,Flask, FastApi ] <br>
 Ferramentas: [Git, Docker, Visual Studio Code, Postman, Insomnia, Redux ] <br>
 
 
@@ -20,7 +20,7 @@ Ferramentas: [Git, Docker, Visual Studio Code, Postman, Insomnia, Redux ] <br>
 
 Tecnologias: React, Redux, Bootstrap, Node.js, MySQL.
 
-🔍 Interesses: Desenvolvimento Web, desenvolvimento mobile, sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades.
+🔍 Interesses: Back-end Pyhton, Desenvolvimento Web, sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades.
 
 📫 Vamos nos conectar! Sinta-se à vontade para explorar meus repositórios e entrar em contato se você quiser conversar sobre projetos, colaboração ou oportunidades!
  
@@ -46,18 +46,14 @@ Tecnologias: React, Redux, Bootstrap, Node.js, MySQL.
  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
  <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
  <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" />
- <img src="https://img.shields.io/badge/mocha-%23121011.svg?style=for-the-badge&logo=mocha&logoColor=grown" />
- <img src="https://img.shields.io/badge/postman-%23121011.svg?style=for-the-badge&logo=postman&logoColor=orange" />
+ <img src="https://img.shields.io/badge/pytest-%23121011.svg?style=for-the-badge&logo=pytest&logoColor=green" />
+ <img src="https://img.shields.io/badge/FastApi-%23121011.svg?style=for-the-badge&logo=fastapi&logoColor=cyan" />
  </div>
 <div>
  <h2>Estudando atualmente:</h2>
  
-  <img src="https://img.shields.io/badge/java-%23121011.svg?style=for-the-badge&logo=java&logoColor=red" />
-  <img src="https://img.shields.io/badge/springBoot-%23121011.svg?style=for-the-badge&logo=spring&logoColor=green" />
-
-          
-          
-          
+  <img src="https://img.shields.io/badge/flask-%23121011.svg?style=for-the-badge&logo=flask&logoColor=green" />
+  <img src="https://img.shields.io/badge/python-%23121011.svg?style=for-the-badge&logo=python&logoColor=green" />
           
           
 </div>
