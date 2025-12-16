@@ -1,28 +1,33 @@
-<h3>Sobre mim :memo:</h3> <hr>
-👋 Olá! Sou Matheus Gomes, desenvolvedor web júnior apaixonado por tecnologia e inovação. Tenho experiência prática em desenvolvimento de aplicações web e mobile, com foco em React, Node.js. Busco constantemente aprender novas tecnologias e aprimorar minhas habilidades através de projetos desafiadores. <br>
+👋 Olá, eu sou Matheus Gomes
 
-<br> 
-💻 Tecnologias que mais utilizo: <br>
+Desenvolvedor Full Stack Júnior com foco em Back-end Python e desenvolvimento de APIs REST.
 
-<br>
+Tenho experiência prática no desenvolvimento de sistemas web utilizados em ambiente corporativo, atuando com Python (Flask), Node.js, React e bancos de dados relacionais.
 
-Linguagens: [JavaScript, Python ] <br>
-Frameworks: [ReactJs,React Native, Node.js,Express,Flask, FastApi ] <br>
-Ferramentas: [Git, Docker, Visual Studio Code, Postman, Insomnia, Redux ] <br>
+Atualmente, concentro meus estudos e projetos em Back-end Python, arquitetura de APIs e boas práticas de desenvolvimento.
+
+💻 Stack principal
+
+Back-end: Python (Flask), Node.js, Express, APIs REST
+Front-end: React, Tailwind, HTML, CSS
+Banco de dados: MySQL, SQLite, MongoDB
+Ferramentas: Git, Docker, VS Code, Insomnia
+
+🚀 Projeto em destaque
+
+🔹 Sistema de Pedidos / Orçamentos
+Aplicação desenvolvida para otimizar a busca de pedidos e orçamentos de vendedores da loja Lojão DuFerro, permitindo consulta e impressão de informações.
+
+Tecnologias: React, Node.js, MySQL
+
+🔹 Sistema de Pagamentos
+Aplicação que simula sistema de pagamento via pix, gerando qrcode do pagamento e fazendo a confirmação simulando que veio de uma instituição financeira.
 
 
-📚 Educação: Graduando em Análise e Desenvolvimento de Sistemas, adquirindo uma sólida base em ciência da computação e desenvolvimento de software.
-             Formação Full-Stack Web pela Trybe.
+Tecnologias: Flask, MySql
 
-🌟 Projetos em Destaque:
-
-[Busca de Pedidos/Orçamentos]: Busca de Pedidos/Orçamentos: Sistema Front-end que facilita a busca de pedidos e orçamentos, permitindo que vendedores consultem informações e imprimam notas fiscais de compras na loja LDF – Lojão DuFerro.
-
-Tecnologias: React, Redux, Bootstrap, Node.js, MySQL.
-
-🔍 Interesses: Back-end Pyhton, Desenvolvimento Web, sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades.
-
-📫 Vamos nos conectar! Sinta-se à vontade para explorar meus repositórios e entrar em contato se você quiser conversar sobre projetos, colaboração ou oportunidades!
+📫 Entre em contato:
+Fique à vontade para explorar meus repositórios ou me chamar para conversar sobre projetos, colaboração ou oportunidades.
  
 <img display: block heigth="150" width="150" src="https://media.giphy.com/media/3oriNLx3dUqFgVi86I/giphy.gif">
 <hr>
@@ -38,16 +43,13 @@ Tecnologias: React, Redux, Bootstrap, Node.js, MySQL.
  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
  <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" />
  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
- <img src="https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white" />
  <img src="https://img.shields.io/badge/express-%23121011.svg?style=for-the-badge&logo=express&logoColor=green" />     
  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" />
  <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
  <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
- <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white" />
- <img src="https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white" />
  <img src="https://img.shields.io/badge/pytest-%23121011.svg?style=for-the-badge&logo=pytest&logoColor=green" />
- <img src="https://img.shields.io/badge/FastApi-%23121011.svg?style=for-the-badge&logo=fastapi&logoColor=cyan" />
+ <img src="https://img.shields.io/badge/Flask-%23121011.svg?style=for-the-badge&logo=flask&logoColor=cyan" />
  </div>
 <div>
  <h2>Estudando atualmente:</h2>
