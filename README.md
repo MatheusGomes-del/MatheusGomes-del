@@ -1,30 +1,66 @@
-👋 Olá, eu sou Matheus Gomes
+# Matheus Gomes
 
-Profissional de Infraestrutura com foco em automação, monitoramento e evolução para DevOps.
+Infrastructure & Technical Support Analyst focused on Automation, Monitoring, Backend and DevOps.
 
-Atuo com ambientes Linux, redes e troubleshooting, buscando transformar tarefas operacionais em processos automatizados.
+I work with Linux environments, infrastructure support, troubleshooting and operational automation, seeking to transform manual processes into scalable and standardized solutions.
 
-Tenho experiência com ferramentas de monitoramento como Zabbix, além de conhecimentos em scripting (Bash) e integração com aplicações (Python/Node.js).
+Currently improving my skills in Infrastructure Modernization, Observability, Containers, Backend Development and DevOps practices.
 
-Atualmente, concentro meus estudos em:
-- Automação de infraestrutura
-- Observabilidade (Zabbix, Grafana)
-- Containers (Docker)
-- Fundamentos de DevOps
+---
 
-💻 Stack principal
+## Core Skills
 
-Infra & Sistemas:
-- Linux, Redes, Troubleshooting
+### Infrastructure & Systems
 
-Automação:
-- Bash, Python
+* Linux
+* Networking
+* Troubleshooting
+* Windows Environments
+* Infrastructure Support
 
-Monitoramento:
-- Zabbix (em evolução), Grafana
+### Monitoring & Observability
 
-Ferramentas:
-- Git, Docker, VS Code
+* Zabbix
+* Grafana
+* Infrastructure Monitoring
+* Operational Visibility
 
-📫 Contato:
-Aberto para trocar conhecimento sobre infraestrutura, automação e DevOps.
+### Automation & Development
+
+* Bash
+* JavaScript / Node.js
+* Process Automation
+* Systems Integration
+
+### Containers & Tools
+
+* Docker
+* Git
+* VS Code
+
+---
+
+## Current Focus
+
+* Infrastructure Automation
+* Backend Development with Node.js
+* Monitoring & Observability
+* Containers & Modern Infrastructure
+* DevOps Culture & Cloud Environments
+
+---
+
+## Featured Areas
+
+* Infrastructure Troubleshooting
+* Operational Automation
+* Monitoring Solutions
+* Backend APIs
+* Containerized Environments
+* Infrastructure Documentation
+
+---
+
+## Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/matheusgdev/
