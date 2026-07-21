@@ -1,76 +1,79 @@
-# Matheus Gomes
+# Hi, I'm Matheus Gomes 👋
 
-Infrastructure & Technical Support Analyst focused on Automation, Monitoring, Backend and DevOps.
+## Full-Stack Developer | DevOps
 
-I work with Linux environments, infrastructure support, troubleshooting and operational automation, seeking to transform manual processes into scalable and standardized solutions.
+I build modern web applications, backend services and automation solutions with a strong Infrastructure and DevOps background.
 
-Currently improving my skills in Infrastructure Modernization, Observability, Containers, Backend Development and DevOps practices.
+Working in production environments taught me to think beyond writing code. I focus on building software that is scalable, maintainable, observable and ready for real-world deployment.
 
----
-
-## Core Skills
-
-### Infrastructure & Systems
-
-* Linux
-* Networking
-* Troubleshooting
-* Windows Environments
-* Infrastructure Support
-
-### Monitoring & Observability
-
-* Zabbix
-* Grafana
-* Infrastructure Monitoring
-* Operational Visibility
-
-### Automation & Development
-
-* Bash
-* JavaScript / Node.js
-* Process Automation
-* Systems Integration
-
-### Containers & Tools
-
-* Docker
-* Git
-* VS Code
+Currently focused on building Full-Stack applications using React, TypeScript, Node.js, PHP and Docker while continuously improving my software architecture and DevOps skills.
 
 ---
 
-## Current Focus
+## Tech Stack
 
-* Infrastructure Automation
-* Backend Development with Node.js
-* Monitoring & Observability
-* Containers & Modern Infrastructure
-* DevOps Culture & Cloud Environments
+### Frontend
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### DevOps & Infrastructure
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 
 ---
 
-## Featured Areas
+## Featured Projects
 
-* Infrastructure Troubleshooting
-* Operational Automation
-* Monitoring Solutions
-* Backend APIs
-* Containerized Environments
-* Infrastructure Documentation
+🏢 **Condominium Management System**
+
+> Full-Stack application focused on condominium management using React, Node.js, PHP and Docker.
+
+⚙️ **Infrastructure Automation**
+
+> Automation tools and scripts designed to improve operational efficiency.
+
+📊 **Monitoring & Observability**
+
+> Dashboards, monitoring solutions and infrastructure visibility using Zabbix and Grafana.
 
 ---
 
-![Linux](https://img.shields.io/badge/Linux-Intermediate-2bbc8a?style=for-the-badge\&logo=linux\&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-Containers-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-Backend-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-Monitoring-CC0000?style=for-the-badge\&logo=zabbix\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-Cloud-FF9900?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-Observability-F46800?style=for-the-badge\&logo=grafana\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Version_Control-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-Orchestration-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
+## Currently Learning
 
+- React Ecosystem
+- TypeScript
+- PHP
+- Software Architecture
+- DevOps Best Practices
 
-## Connect With Me
+---
 
-* LinkedIn: https://www.linkedin.com/in/matheusgdev/
+## Engineering Principles
+
+- Clean Code
+- RESTful APIs
+- Automation First
+- Scalability
+- Observability
+- Continuous Learning
+
+---
+
+## Connect with me
+
+💼 LinkedIn
+
+https://www.linkedin.com/in/matheusgdev/
