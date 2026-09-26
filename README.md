@@ -1,79 +1,121 @@
 # Hi, I'm Matheus Gomes 👋
 
-## Full-Stack Developer | DevOps
+## Infrastructure | DevOps | Cloud | MLOps
 
-I build modern web applications, backend services and automation solutions with a strong Infrastructure and DevOps background.
+Infrastructure and DevOps professional focused on building, automating and operating reliable technology environments.
 
-Working in production environments taught me to think beyond writing code. I focus on building software that is scalable, maintainable, observable and ready for real-world deployment.
+My experience includes Linux and Windows environments, infrastructure support, monitoring, troubleshooting, automation, virtualization, networking and operational processes.
 
-Currently focused on building Full-Stack applications using React, TypeScript, Node.js, PHP and Docker while continuously improving my software architecture and DevOps skills.
+I work with technologies such as Linux, Docker, Git/GitLab, Jenkins, Zabbix, Grafana, Shell/Bash, n8n, virtual machines, VPS, pfSense and SSL/TLS certificates.
+
+My professional direction combines **Infrastructure, DevOps and Cloud**, with a growing specialization in **MLOps and AI infrastructure**.
 
 ---
 
-## Tech Stack
+## Core Stack
 
-### Frontend
+### Infrastructure & Systems
 
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge\&logo=windows\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnubash\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
 
-### Backend
+### DevOps & Automation
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge\&logo=gitlab\&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge\&logo=jenkins\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge\&logo=n8n\&logoColor=white)
 
-### DevOps & Infrastructure
+### Monitoring & Observability
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge&logo=zabbix&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Zabbix](https://img.shields.io/badge/Zabbix-CC0000?style=for-the-badge\&logo=zabbix\&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge\&logo=grafana\&logoColor=white)
+
+### Networking & Infrastructure
+
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=for-the-badge\&logo=pfsense\&logoColor=white)
+
+Virtual Machines • VPS • VPN • SSL/TLS • Network Troubleshooting
+
+### Development
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+
+---
+
+## Professional Focus
+
+### DevOps & Cloud
+
+Building practical knowledge around:
+
+* Containerization with Docker
+* CI/CD pipelines
+* Infrastructure automation
+* Linux administration
+* Cloud infrastructure
+* Infrastructure as Code
+* Monitoring and observability
+* Reliable and scalable environments
+
+### MLOps & AI Infrastructure
+
+Expanding my engineering focus toward:
+
+* Machine Learning fundamentals
+* Deep Learning
+* Model lifecycle
+* ML pipelines
+* Model serving
+* Monitoring ML workloads
+* Infrastructure for AI applications
+* MLOps practices
+
+The goal is to connect proven **DevOps and Cloud engineering principles** with the infrastructure and operational requirements of modern AI workloads.
 
 ---
 
 ## Featured Projects
 
-🏢 **Condominium Management System**
+### ⚙️ Infrastructure Automation
 
-> Full-Stack application focused on condominium management using React, Node.js, PHP and Docker.
+Scripts and automation solutions focused on reducing manual operational tasks, improving reliability and standardizing infrastructure processes.
 
-⚙️ **Infrastructure Automation**
+### 📊 Monitoring & Observability
 
-> Automation tools and scripts designed to improve operational efficiency.
+Monitoring solutions, dashboards and operational visibility using Zabbix and Grafana.
 
-📊 **Monitoring & Observability**
+### 🐳 Containerization & DevOps
 
-> Dashboards, monitoring solutions and infrastructure visibility using Zabbix and Grafana.
+Practical projects involving Docker, containerized applications, CI/CD and infrastructure automation.
 
----
+### 🤖 AI & MLOps
 
-## Currently Learning
-
-- React Ecosystem
-- TypeScript
-- PHP
-- Software Architecture
-- DevOps Best Practices
+Projects exploring Machine Learning, Deep Learning and the engineering practices required to deploy, operate and monitor AI workloads.
 
 ---
 
 ## Engineering Principles
 
-- Clean Code
-- RESTful APIs
-- Automation First
-- Scalability
-- Observability
-- Continuous Learning
+* Automation First
+* Infrastructure as Code
+* Observability
+* Reliability
+* Scalability
+* Reproducibility
+* Clean Code
+* Continuous Improvement
 
 ---
 
-## Connect with me
+## Connect
 
 💼 LinkedIn
 
-https://www.linkedin.com/in/matheusgdev/
+https://www.linkedin.com/in/matheusopsdev/
